@@ -15,6 +15,7 @@
   },
   "dependencies": {},
   "scripts": {
-    "start": "mdx-deck deck.mdx"
+    "start:deck": "mdx-deck deck.mdx",
+    "build:deck": "mdx-deck build deck.mdx -d presentation"
   }
 }
