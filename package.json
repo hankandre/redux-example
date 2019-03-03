@@ -1,0 +1,20 @@
+{
+  "name": "redux-notes",
+  "version": "1.0.0",
+  "description": "Notes on redux that would be helpful for those just getting introduced",
+  "main": "index.js",
+  "author": "Hank Andre<hankandre@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "mdx-deck": "^1.10.0",
+    "mdx-deck-code-surfer": "^0.5.5",
+    "prettier": "^1.16.4",
+    "raw-loader": "^1.0.0",
+    "redux": "^4.0.1"
+  },
+  "dependencies": {},
+  "scripts": {
+    "start": "mdx-deck deck.mdx"
+  }
+}
